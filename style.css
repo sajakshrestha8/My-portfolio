@@ -41,6 +41,8 @@ nav ul{
   
   nav ul li a:hover{
     color: #3f0505;
+    font-size: 110%;
+    transition: 0.3s;
   }
 
   .info{
@@ -102,11 +104,13 @@ nav ul{
 
   .btn{
     height: 40px;
-    width: 210px;
+    width: 240px;
     border-radius: 10px;
     border-color: #388087;
     box-shadow: 3px 3px;
   }
  .btn:hover{
   background-color: #388087;
+  font-size: 100%;
+  transition: 0.3s;
  }  
