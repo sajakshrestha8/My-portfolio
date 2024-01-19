@@ -177,6 +177,7 @@ nav ul{
   font-size: 20px;
  }
 
+ /* HTML */
  .HTMLprogressbar{
   height: 20px;
   background: #1da1f2;
@@ -197,6 +198,7 @@ nav ul{
   color: white;
  }
 
+ /* CSS */
  .csslogo{
   height: 250px;
   width: 240px;
@@ -249,3 +251,7 @@ nav ul{
   font-weight: bold;
   color: white;
  }
+
+@media screen {
+  width: 95%;
+}
